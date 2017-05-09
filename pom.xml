@@ -10,7 +10,7 @@
 
 	<groupId>com.chenxing</groupId>
 	<artifactId>slack2easemobkefu</artifactId>
-	<version>47.1.1-SNAPSHOT</version>
+	<version>47.1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>slack2easemobkefu</name>
