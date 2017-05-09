@@ -10,7 +10,7 @@
 
 	<groupId>com.chenxing</groupId>
 	<artifactId>slack2easemobkefu</artifactId>
-	<version>47.1.0-SNAPSHOT</version>
+	<version>47.1.1.FINAL</version>
 	<packaging>jar</packaging>
 
 	<name>slack2easemobkefu</name>
@@ -19,7 +19,7 @@
 		<scm><url>https://github.com:heguojiao/hgjtestrepository.git</url> 
 		<connection>scm:git:git@github.com:heguojiao/hgjtestrepository.git</connection> 
 		<developerConnection>scm:git:git@github.com:heguojiao/hgjtestrepository.git</developerConnection> 
-		<tag>dev_47.1</tag></scm>
+		<tag>v47.1.1.FINAL</tag></scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
